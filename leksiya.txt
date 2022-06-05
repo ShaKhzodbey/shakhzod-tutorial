@@ -1,0 +1,17 @@
+//Foydalanuvchi bilan oddiy muloqot
+
+// alert == bu user bn oddiy muloqot qilish uchun kommanda
+
+// confirm == bu userdan savol surash va javobi faqat 'false' va 'true' boladi
+
+//Operatorlar
+/* ! == bu belgi 'true' qimatni 'false' va 'false' ni esa 'true' ga ogrib beradi */
+/* && == bu belgi va degan manoni beradi consolega true qiymat chiqishi uchun hamma 
+        misol togri bolishi kerak */
+
+/* || == bu beldi yoki d/a bunda true qiymat qaytishi uchun faqat bittasi true bolsa yetadi */
+
+// == belgi bu teng degan manoni beradi. va bu faqat qiymatlarni tekshiradi//
+// == belgi ham teng degan manoni beradi lekin bu faqat qiymatni emas balki shu
+      qiymatning turini ham tekshiradi ekan. //
+
